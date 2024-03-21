@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: ' Poppins',sans-serif;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    background-size: contain; 
+    }
+
+#logo{
+    height: 80px;
+width: 80px;}
+
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(img/header-bg.jpg);
+     background-size: cover; 
+     background-repeat: no-repeat;
+}
+
+.container2{
+    display: flex;
+    flex-direction: column;
+    height: 700px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    padding-bottom: 60px;
+}
+
+h1{
+    font-size: 70px;
+}
+
+.container3{
+    display: flex;
+    flex-direction: column;
+    height: 700px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    padding-bottom: 60px;
+}
+
+#ongo{
+    height: 50px;
+}
+
+.upc_events{
+    color: #fff;
+    background-color: #1c202b;
+    text-align: center;
+    font-size: xx-large;
+}
+
+hr.upc{
+    border: 3px solid #73b87e;
+}
+
+hr.foot{
+    background-color: #1c202b;
+    border: 3px solid #73b87e; 
+}
+
+#footlogo{
+    height: 80px;
+    width: 80px;
+}
+
+ .hrfoot{
+    background-color: #1c202b;
+    text-align: center;
+    font-size: xx-large;
+ }
+
+
+#logintxt{
+    color: #801a1a;
+}
+
+.text-gray-900 {
+    --text-opacity: 1;
+    color: #1a202c;
+    color: rgba(255,255,255,var(--text-opacity));
+}
+
+#homebg{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(img/header-bg.jpg);
+    background-size: contain; 
+    background-repeat: no-repeat;
+}
+
+#loginbg{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(img/header-bg.jpg);
+    background-size: cover;
+}

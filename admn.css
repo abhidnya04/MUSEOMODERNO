@@ -1,0 +1,62 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(img/header-bg.jpg);
+    background-size: cover; 
+}
+
+#logo{
+    height: 80px;
+width: 80px;}
+
+.containe{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 700px;
+    width: 1200px;
+    position: relative;
+}
+
+#search{
+    color: white;
+    font-size: 40px;
+}
+
+.g{
+    position: relative;
+    bottom: 100px;
+    left: 329px;
+}
+
+#search2{
+    radius: 25px;
+}
+
+#butsearch{
+    width: 67px;
+    background: #73b87e;
+    color: white;
+    border-radius: 2px;
+}
+
+
+#s1{
+    border-radius: 10px;
+    padding: 2px;
+}
+
+.h{
+    position: relative;
+    bottom: 100px;
+    left: 329px;
+}
+
+#login{
+    color: white;
+    font-size: 40px;
+}
+
+.lg2{
+    position: relative;
+    bottom: px;
+    left: 82px;
+}
